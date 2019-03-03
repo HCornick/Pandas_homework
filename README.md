@@ -1,6 +1,6 @@
 # Pandas_homework
 
-Final report should includes each of the following:
+Final report includes each of the following:
 
 ### Player Count
 
@@ -37,7 +37,7 @@ Final report should includes each of the following:
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* The top 5 spenders in the game by total purchase value, and each spender's:
   * SN
   * Purchase Count
   * Average Purchase Price
@@ -45,7 +45,7 @@ Final report should includes each of the following:
 
 ### Most Popular Items
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
+* The 5 most popular items by purchase count, and each item's:
   * Item ID
   * Item Name
   * Purchase Count
@@ -54,7 +54,7 @@ Final report should includes each of the following:
 
 ### Most Profitable Items
 
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+* Identify the 5 most profitable items by total purchase value, and each item's:
   * Item ID
   * Item Name
   * Purchase Count
